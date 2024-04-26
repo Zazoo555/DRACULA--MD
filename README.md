@@ -18,8 +18,8 @@
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="DRACULA MD is free to use" href="https://www.instagram.com/druglord.kuwait?igsh=MXJ6MHljb215czJwMQ==" target="_blank">
+    <img alt="DRACULA MD INS" src="https://img.shields.io/Instagram/page/followers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
