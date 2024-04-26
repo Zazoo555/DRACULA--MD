@@ -110,7 +110,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, message +2349060853189
+- If any problem, message (+2349060853189) on Whatsapp
 
 
 
