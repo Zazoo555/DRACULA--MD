@@ -1,4 +1,4 @@
- <h1 align="center"> DRACULA MD </h1> 
+ <h1 align="center"> DRACULA MD🥲 </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
