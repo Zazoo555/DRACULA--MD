@@ -1,5 +1,5 @@
  <h1 align="center"> DRACULA MD🥲 </h1> 
-<p align="center"> A simple WhatsApp bot with rich features. </p>
+<p align="center"> A simple WhatsApp bot with rich features, <strong>INTRODUCING DRACULA MD🥲. </p>
 
  
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a>
