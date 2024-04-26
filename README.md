@@ -110,9 +110,8 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, message (+2349060853189) on Whatsapp
-  <a
-  href=https://wa.link/iaa46n
+- If any problem, message me on Whatsapp
+
   <img src="https://i.ibb.co/VMLHGNp/images.png" alt="images" border="0">
   </a>
   <a  href='https://wa.link/iaa46n'>
