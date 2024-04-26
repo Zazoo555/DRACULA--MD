@@ -112,8 +112,8 @@
 - Star ⭐ repo if you like this bot.
 - If any problem, message (+2349060853189) on Whatsapp
 <p align="center">
-  <a href="https://wa.link/iaa46n?platform=whatsapp">
- <img src=".https://rb.gy/edy0sq">
+  <a href="https://wa.link/iaa46n?platform=heroku"> 
+   <img src="https://rb.gy/edy0sq?style=for-the-badge&logo=Whatsapp&logoColor=430098"> </a>
 
 
 
