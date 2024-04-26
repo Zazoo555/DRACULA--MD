@@ -113,7 +113,7 @@
 - If any problem, message (+2349060853189) on Whatsapp
 <p align="center">
   <a href="https://wa.link/iaa46n?platform=heroku"> 
-   <img src="https://rb.gy/edy0sq?style=for-the-badge&logo=Whatsapp&logoColor=430098"> </a>
+   <img src="https://app.gemoo.com/share/image-annotation/642506697216348160?codeId=DWlBNyZXWpJp8&origin=imageurlgenerator&card=642506693475028992?style=for-the-badge&logo=Whatsapp&logoColor=430098"> </a>
 
 
 
