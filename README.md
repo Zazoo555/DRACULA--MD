@@ -111,9 +111,7 @@
 
 - Star ⭐ repo if you like this bot.
 - If any problem, message (+2349060853189) on Whatsapp
-<p align="center">
-  <a href="https://wa.link/iaa46n?platform=heroku"> 
-   <img src="https://app.gemoo.com/share/image-annotation/642506697216348160?codeId=DWlBNyZXWpJp8&origin=imageurlgenerator&card=642506693475028992?style=for-the-badge&logo=Whatsapp&logoColor=430098"> </a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/VMLHGNp/images.png" alt="images" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image posting</a><br />
 
 
 
