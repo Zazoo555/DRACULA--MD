@@ -23,14 +23,14 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Zazoo555}/count.svg" alt="Zazoo555 :: Visitor's Count" /></p>
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+ <a href="https://github.com/Zazoo555">
+ <img title="Owner" src="https://img.shields.io/badge/Zazoo555-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/Zazoo555">
+    <img src="https://img.shields.io/github/followers/Zazoo555?style=flat-square&logo=github&color=darkred">
   </a>
   
 
@@ -46,7 +46,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> DRACULA MD whatsapp bot uses
   
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://suhail-web01.vercel.app/deploy?platform=heroku"> <img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"> </a>
-  <a href="https://suhail-web01.vercel.app/deploy?platform=repl"
+  <a href="https://DRACULA-web01.vercel.app/deploy?platform=repl"
 
 ***<p align="center">Need help? please create an <a href="https://github.com/SuhailTechInfo/Suhail-Md/issues">issue</a></p>***
 
