@@ -16,10 +16,9 @@
      <img src="https://img.shields.io/github/stars/Zazoo555/DRACULA--MD?style=flat-square&logo=github&color=darkred">
  </a>
 
-
-
-  <a aria-label="DRACULA MD is free to use" href="https://www.instagram.com/druglord.kuwait?igsh=MXJ6MHljb215czJwMQ==" target="_blank">
-    <img alt="DRACULA MD Instagram" src="https://img.shields.io/youtub/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+<p align="center">
+  <a href="https://www.instagram.com/druglord.kuwait?igsh=MXJ6MHljb215czJwMQ==">
+   <img src="https://i.ibb.co/Y88JhgR/images-7.jpg" alt="images-7" border="0">
   </a>
 
 </p>
