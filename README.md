@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>DRACULA-MD</b></a> Support Deploy On...
+ <b>DRACULA-MD</b> Support Deploy On...
 </p>
 
 <p align="center">
