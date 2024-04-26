@@ -111,8 +111,10 @@
 
 - Star ⭐ repo if you like this bot.
 - If any problem, message (+2349060853189) on Whatsapp
-  <a href=https://wa.link/iaa46n?platform=whatsapp
-  <img src="https://i.ibb.co/VMLHGNp/images.png" alt="images" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>(+2349060853189)</a><br />
+  <a href=https://wa.link/iaa46n
+  <img src="https://i.ibb.co/VMLHGNp/images.png" alt="images" border="0"></a>
+  <a  href='https://wa.link/iaa46n'>
+  </a>
 
 
 
