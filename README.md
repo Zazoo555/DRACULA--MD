@@ -19,7 +19,7 @@
 
 
   <a aria-label="DRACULA MD is free to use" href="https://www.instagram.com/druglord.kuwait?igsh=MXJ6MHljb215czJwMQ==" target="_blank">
-    <img alt="DRACULA MD INS" src="https://img.shields.io/Instagram/page/followers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="DRACULA MD Instagram" src="https://img.shields.io/youtub/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
