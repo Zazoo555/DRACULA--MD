@@ -47,8 +47,7 @@
 
 
 <p align="center"> Suhail MD whatsapp bot uses
-  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
-</p>
+  
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
 </p>
